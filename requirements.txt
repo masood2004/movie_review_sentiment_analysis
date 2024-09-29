@@ -1,0 +1,7 @@
+nltk
+gensim
+textblob
+matplotlib
+seaborn
+wordcloud
+tqdm
